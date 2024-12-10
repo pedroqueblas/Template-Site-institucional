@@ -7,7 +7,7 @@ Este projeto é um template de site institucional, desenvolvido com HTML5, CSS3 
 Design limpo e moderno para sites institucionais.
 Layout responsivo para uma boa experiência em dispositivos móveis e desktops.
 Estrutura semântica e fácil de personalizar.
-COMO CLONAR O REPOSITÓRIO
+# COMO CLONAR O REPOSITÓRIO
 Para começar, você pode clonar este repositório localmente:
 
 
